@@ -1,4 +1,4 @@
-#js-button-toggle
+js-button-toggle
 This is a simple button toggle project built using HTML, CSS, and JavaScript.
 It demonstrates basic DOM manipulation and event handling in JavaScript.
 Features
