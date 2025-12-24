@@ -46,7 +46,7 @@ This project helped master:
 ## 👥 Authors
 
 ### Jen Kramer
-- **Role**: Web Development Learner
+- **Role**: Web Development Trainer
 - **Focus**: Front-end fundamentals and JavaScript
 
 ### Ime Francis
